@@ -10,6 +10,7 @@ Technologies used:
 - Tailwind
 - NextJS
 - React-icons
+- React-chartjs-2
 
 ## Acknowledgements
 
